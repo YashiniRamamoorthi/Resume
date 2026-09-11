@@ -6,11 +6,12 @@ Welcome to my resume repository.
 
 Aspiring Data Analyst with skills in:
 
-- SQL
+- SQL(Mysql,Oracle)
 - Python
 - Excel
 - Power BI
-
+- Python libraries(NumPy,Pandas,Matplotlib,Seaborn)
+  
 ## Resume
 
 - 📄 Yashini_DA_Resume.pdf
