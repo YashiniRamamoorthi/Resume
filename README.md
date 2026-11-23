@@ -10,11 +10,12 @@ Aspiring Data Analyst with skills in:
 - Python
 - Excel
 - Power BI
-- Python libraries(NumPy,Pandas,Matplotlib,Seaborn)
+- Python libraries(NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn)
+- Machine Learning
   
 ## Resume
 
-- 📄 Yashini_DA_Resume.pdf
+- 📄 Yashini.R_DA_Resume.pdf
 
 ## Skills
 
